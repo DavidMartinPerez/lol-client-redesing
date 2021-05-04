@@ -1,0 +1,11 @@
+export const black_bold = '#060607';
+export const black_regular = '#3E3833';
+export const grey_bold = '#59595B';
+export const grey_regular = '#99999B';
+export const grey_light = '#F0EFF0';
+export const orange = '#c99101';
+export const white_bold = '#C1C0B7';
+export const white = '#fff';
+export const green = '#4ee818';
+export const blue = '#116677';
+export const red = '#e60000';
