@@ -24,5 +24,8 @@ Basado en el diseño de [Salomon Sanchez](https://dribbble.com/shots/15292090-Re
 - [ ] Eliminar que el usuario pueda hacer rescalado de la ventana
 - [ ] Añadir funcionalidad a la aplicación
 # TODO's: Soñados
+- [ ] Sistema de login
+- [ ] Sistema de Amigos
 - [ ] Crear un sistema de colas con Node.js
 - [ ] Recuperar datos de una bbdd NoSql
+- [ ] Añadir docker para node.js y la base de datos NoSql
